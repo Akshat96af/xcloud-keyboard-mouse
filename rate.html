@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Rate Extension - Keyboard & Mouse for Xbox xCloud</title>
+    <style>
+      /* Define CSS variables that shared.css expects, but with viewport-appropriate values */
+      :root {
+        --popup-width: 100vw;
+        --popup-height: 100vh;
+      }
+      
+      /* Ensure body takes full viewport for proper centering */
+      html, body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #f3f2f1;
+        color: #494847;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        html, body {
+          background-color: #09190d;
+          color: #fff;
+        }
+      }
+
+      /* Ensure modals don't cause layout shift */
+      .react-responsive-modal-root {
+          position: fixed;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          z-index: 1000;
+          /* Hide modal until CSS has fully loaded and modal is ready to be shown */
+          display: none;
+      }
+    </style>
+    <script src="js/vendor.js"></script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="js/review_prompt.js"></script>
+  </body>
+</html>

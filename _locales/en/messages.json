@@ -1,0 +1,866 @@
+{
+  "app_popup_title": {
+    "message": "Connection error",
+    "description": "Internet connection error"
+  },
+  "app_popup_text": {
+    "message": "If you continue to see this error message<br>please contact us via email: $1"
+  },
+  "permissions_mouseenabletarget_text": {
+    "message": "Click $1 to move",
+    "description": "We are asking user to click mouse to move a joystick. $1 is 'here' or 'again'"
+  },
+  "permissions_mouseenabletarget_text_3": {
+    "message": "with mouse",
+    "description": "We are asking user to click mouse to move a joystick with mouse"
+  },
+  "permissions_mouseenabletarget_status_loading": {
+    "message": "Please wait..."
+  },
+  "permissions_mouseenabletarget_desc": {
+    "message": "Please enable mouse lock permission in your browser settings",
+    "description": "DO_NOT_TRANSLATE"
+  },
+  "permissions_mouseenabletarget_text_4": {
+    "message": "Need help with mouse lock permission?",
+    "description": "PROCESSED: src/browser/components/MouseEnableTarget.tsx:59:JSXText"
+  },
+  "permissions_mouseenabletarget_here": {
+    "message": "here",
+    "description": "Text for first click instruction - 'Click here to move...'"
+  },
+  "permissions_mouseenabletarget_again": {
+    "message": "again",
+    "description": "Text for second click instruction - 'Click again to move...'"
+  },
+  "onboarding_paywall_headline": {
+    "message": "Play any Xbox\u00a0Cloud game with keyboard and mouse"
+  },
+  "onboarding_paywall_feature_title_works_every_game": {
+    "message": "Works on every game"
+  },
+  "onboarding_paywall_feature_desc_works_every_game": {
+    "message": "Play Fortnite, GTA, Forza Horizon, CoD, and more. No\u00a0controller required."
+  },
+  "onboarding_paywall_feature_title_preset_library": {
+    "message": "Preset library"
+  },
+  "onboarding_paywall_feature_desc_preset_library": {
+    "message": "Use $1 ready-to-play presets, or build your own."
+  },
+  "onboarding_paywall_feature_title_instant_setup": {
+    "message": "Instant setup"
+  },
+  "onboarding_paywall_feature_desc_instant_setup": {
+    "message": "Import a preset in 1 click and start playing faster."
+  },
+  "onboarding_paywall_feature_title_auto_switch": {
+    "message": "Auto switch"
+  },
+  "onboarding_paywall_feature_desc_auto_switch": {
+    "message": "Switch presets automatically when you launch a game."
+  },
+  "onboarding_paywall_feature_title_zero_subscriptions": {
+    "message": "Zero subscriptions."
+  },
+  "onboarding_paywall_feature_desc_zero_subscriptions": {
+    "message": "Free forever. Built for everyone."
+  },
+  "onboarding_paywall_trial_text_inactive": {
+    "message": "Free Forever"
+  },
+  "onboarding_paywall_trial_text_expired": {
+    "message": "Free Forever"
+  },
+  "onboarding_paywall_trial_text_active": {
+    "message": "Free Forever"
+  },
+  "onboarding_paywall_unlock_text_cta": {
+    "message": "Free \u2014 Full Access"
+  },
+  "onboarding_paywall_legal_text_tos": {
+    "message": "Terms of Service"
+  },
+  "onboarding_paywall_legal_text_already_paid": {
+    "message": "Join our community"
+  },
+  "onboarding_paywall_legal_text_support": {
+    "message": "Support"
+  },
+  "nav_toolbar_title": {
+    "message": "Hide controls list"
+  },
+  "nav_toolbar_title_2": {
+    "message": "Show controls list"
+  },
+  "preset_copypreset_text": {
+    "message": "New preset name"
+  },
+  "preset_copypreset_button_cancel": {
+    "message": "Cancel"
+  },
+  "preset_copypreset_button_copy": {
+    "message": "Copy"
+  },
+  "errors_errordetails_text": {
+    "message": "Unable to access settings from storage",
+    "description": "DO_NOT_TRANSLATE"
+  },
+  "errors_errordetails_text_2": {
+    "message": "Error: \"$1\""
+  },
+  "errors_errordetails_text_3": {
+    "message": "Please send this issue via email to $1"
+  },
+  "editor_editor_desc": {
+    "message": "You may also need to change the in-game joystick<br>sensitivity and deadzone settings."
+  },
+  "editor_editor_button_edit": {
+    "message": "Edit"
+  },
+  "editor_editor_button_export": {
+    "message": "Export"
+  },
+  "editor_editor_error": {
+    "message": "Default preset cannot be deleted"
+  },
+  "editor_editor_button_delete": {
+    "message": "Delete"
+  },
+  "editor_editor_error_2": {
+    "message": "Please fix errors in preset before saving"
+  },
+  "editor_editor_desc_2": {
+    "message": "Preset name is required and must be unique"
+  },
+  "editor_editor_button_create": {
+    "message": "Create"
+  },
+  "editor_editor_button_save": {
+    "message": "Save"
+  },
+  "editor_editor_text_2": {
+    "message": "Active"
+  },
+  "editor_editor_button_use": {
+    "message": "Use"
+  },
+  "preset_editor_label": {
+    "message": "Select preset"
+  },
+  "preset_editor_title": {
+    "message": "Previous preset"
+  },
+  "preset_editor_title_2": {
+    "message": "Next preset"
+  },
+  "preset_editor_title_3": {
+    "message": "Settings"
+  },
+  "settings_settings_button_back": {
+    "message": "Back"
+  },
+  "settings_settings_text": {
+    "message": "Position of \"Click to move $1 with mouse\" prompt",
+    "description": "Position of 'click to move with mouse' prompt"
+  },
+  "settings_settings_label": {
+    "message": "Show controls list while playing"
+  },
+  "settings_settings_title": {
+    "message": "Show overlay with all button bindings during gameplay"
+  },
+  "settings_settings_label_2": {
+    "message": "Temporarily disable preset auto-load (resets on preset switch)"
+  },
+  "settings_settings_title_2": {
+    "message": "When enabled, the current preset will be used even if the game is linked to a different preset"
+  },
+  "settings_translate_keys_label": {
+    "message": "Translate keys in editor"
+  },
+  "settings_translate_keys_title": {
+    "message": "When enabled, key names (like Space, Enter, etc.) will be translated to the selected language"
+  },
+  "settings_settings_text_3": {
+    "message": "Language:"
+  },
+  "settings_settings_text_4": {
+    "message": "For support, please contact us via email: $1"
+  },
+  "nav_header_text_enable": {
+    "message": "Enable"
+  },
+  "nav_header_text_disable": {
+    "message": "Disable"
+  },
+  "nav_header_text": {
+    "message": "$1 keyboard and mouse",
+    "description": "Enable/disable keyboard and mouse"
+  },
+  "nav_header_text_2": {
+    "message": "Playing"
+  },
+  "nav_header_text_3": {
+    "message": "None"
+  },
+  "nav_header_text_4": {
+    "message": "Preset"
+  },
+  "nav_header_title": {
+    "message": "More info"
+  },
+  "editor_keybindings_desc": {
+    "message": "Press any key, or click, or scroll...",
+    "description": "Press any keyboard key, or click mouse, or scroll the mouse wheel..."
+  },
+  "editor_keybindings_text": {
+    "message": "(Press Esc to cancel)"
+  },
+  "editor_keybindings_text_2": {
+    "message": "or"
+  },
+  "editor_keybindings_title": {
+    "message": "Remove binding",
+    "description": "Remove keybinding for a button"
+  },
+  "editor_keybindings_text_3": {
+    "message": "No bindings for button",
+    "description": "No keybindings for a button"
+  },
+  "editor_keybindings_title_2": {
+    "message": "Add binding",
+    "description": "Add keybinding for a button"
+  },
+  "preset_newconfig_title": {
+    "message": "Add new preset"
+  },
+  "preset_newconfig_text_2": {
+    "message": "Import File",
+    "description": "Import preset file"
+  },
+  "preset_newconfig_text_3": {
+    "message": "Create New",
+    "description": "Create new preset"
+  },
+  "preset_newconfig_text_4": {
+    "message": "Name already used for another preset"
+  },
+  "preset_newconfig_text_5": {
+    "message": "Open Preset Library"
+  },
+  "preset_autoswitch_text": {
+    "message": "Auto-load for:"
+  },
+  "preset_autoswitch_text_2": {
+    "message": "No linked games",
+    "description": "No games linked to this preset"
+  },
+  "preset_autoswitch_confirm_title": {
+    "message": "Remove $1"
+  },
+  "preset_autoswitch_label": {
+    "message": "Select game"
+  },
+  "preset_autoswitch_placeholder": {
+    "message": "Link recently played game",
+    "description": "Tells user to link a recently played game"
+  },
+  "preset_autoswitch_footer_no_games": {
+    "message": "To link a game, play the game again<br>to see it in this list."
+  },
+  "preset_autoswitch_footer_showing_games": {
+    "message": "Showing your $1 most recent $2.<br>Don't see the game you want?<br>Play it again to see it in this list."
+  },
+  "editor_sensitivity_text": {
+    "message": "Mouse sensitivity"
+  },
+  "settings_shortcuts_text": {
+    "message": "Set shortcuts",
+    "description": "Set shortcuts"
+  },
+  "settings_shortcuts_description": {
+    "message": "Set keyboard shortcuts to quickly change extension settings.",
+    "description": "Description of what keyboard shortcuts can do"
+  },
+  "editor_stick_text": {
+    "message": "Mouse control<br>disabled",
+    "description": "Mouse control disabled"
+  },
+  "editor_stick_text_3": {
+    "message": "Mouse moves<br>$1 joystick",
+    "description": "Mouse moves left/right joystick. $1 is 'left' or 'right'"
+  },
+  "editor_stick_left": {
+    "message": "left",
+    "description": "Left joystick"
+  },
+  "editor_stick_right": {
+    "message": "right",
+    "description": "Right joystick"
+  },
+  "app_update_title": {
+    "message": "New features and improvements"
+  },
+  "app_update_desc": {
+    "message": "Thanks for using the extension. Here's what's new:"
+  },
+  "app_update_text": {
+    "message": "Auto switch"
+  },
+  "app_update_desc_2": {
+    "message": "Switch presets automatically when you launch a game."
+  },
+  "app_update_text_2": {
+    "message": "Preset library"
+  },
+  "app_update_desc_4": {
+    "message": "Use $1 ready-to-play presets from our website. No more searching on Discord."
+  },
+  "app_update_text_3": {
+    "message": "One-click import"
+  },
+  "app_update_desc_5": {
+    "message": "Import from the preset library in one click and start playing faster."
+  },
+  "app_update_text_4": {
+    "message": "Easier to use"
+  },
+  "app_update_desc_6": {
+    "message": "A cleaner editor, better keybind conflict messages, and more usability improvements."
+  },
+  "app_update_text_5": {
+    "message": "Dark mode"
+  },
+  "app_update_desc_7": {
+    "message": "A new dark theme to match your style."
+  },
+  "app_update_desc_8": {
+    "message": "Prefer light mode? Set your browser theme to light mode."
+  },
+  "app_update_desc_9": {
+    "message": "Try it by setting your browser theme to dark mode."
+  },
+  "app_update_text_6": {
+    "message": "Have feedback? Send us an email: $1"
+  },
+  "app_update_text_7": {
+    "message": "Got it",
+    "description": "Equivalent to 'OK' button"
+  },
+  "app_update_version_update": {
+    "message": "Update",
+    "description": "Word 'Update' in version heading e.g. 'v4.0.5 Update'"
+  },
+  "app_update_v4patch05_title": {
+    "message": "Improved compatibility"
+  },
+  "app_update_v4patch05_desc": {
+    "message": "This update adds support for the new Xbox Cloud preview interface and improves overall reliability."
+  },
+  "app_update_v4patch05_text_1": {
+    "message": "New Xbox Cloud interface support"
+  },
+  "app_update_v4patch05_desc_1": {
+    "message": "Full support for the new preview interface on play.xbox.com."
+  },
+  "app_update_v4patch05_text_2": {
+    "message": "Improved extension compatibility"
+  },
+  "app_update_v4patch05_desc_2": {
+    "message": "Fixes for issues that could occur when other extensions are active."
+  },
+  "app_update_v4patch05_text_3": {
+    "message": "Stability & bug fixes"
+  },
+  "app_update_v4patch05_desc_3": {
+    "message": "Several fixes for the editor and in-game controls to improve reliability."
+  },
+  "post_entitlement_title": {
+    "message": "Keyboard & Mouse enabled",
+    "description": "Post-entitlement in-page modal headline"
+  },
+  "post_entitlement_variant_paid": {
+    "message": "All features are free and available to everyone.",
+    "description": "Post-entitlement modal: first line of body (paid); line break follows before subtext"
+  },
+  "post_entitlement_variant_trial": {
+    "message": "All features are free and available to everyone.",
+    "description": "Post-entitlement modal: first line for trial. $1 = remaining trial days from computeTrialState"
+  },
+  "post_entitlement_variant_trial_fallback": {
+    "message": "All features are free and available to everyone.",
+    "description": "Post-entitlement modal: trial first line when trial length is unknown or zero"
+  },
+  "post_entitlement_subtext_1": {
+    "message": "Start a game to play with keyboard and mouse.",
+    "description": "Post-entitlement modal: second line of body (after variant line)"
+  },
+  "post_entitlement_subtext_popup": {
+    "message": "Click the extension icon to change settings.",
+    "description": "Post-entitlement modal: explains how to find the extension popup later"
+  },
+  "post_entitlement_button_ok": {
+    "message": "Start playing",
+    "description": "Primary dismiss button for post-entitlement modal"
+  },
+  "popup_entitlement_onboarding_title": {
+    "message": "Important setup tips",
+    "description": "Popup onboarding modal headline shown after trial start or checkout success"
+  },
+  "popup_entitlement_onboarding_intro": {
+    "message": "For the best experience, change these settings:",
+    "description": "Popup onboarding modal body intro"
+  },
+  "popup_entitlement_onboarding_item_mouse": {
+    "message": "Change extension preset's mouse sensitivity to make joystick controls feel more natural.",
+    "description": "Popup onboarding modal bullet: extension mouse sensitivity guidance"
+  },
+  "popup_entitlement_onboarding_label_extension": {
+    "message": "In extension preset",
+    "description": "Headline label for popup onboarding extension settings card"
+  },
+  "popup_entitlement_onboarding_item_joystick": {
+    "message": "Change in-game joystick sensitivity and deadzone settings to improve precision.",
+    "description": "Popup onboarding modal bullet: in-game joystick settings guidance"
+  },
+  "popup_entitlement_onboarding_label_game": {
+    "message": "In each game",
+    "description": "Headline label for popup onboarding in-game settings card"
+  },
+  "popup_entitlement_onboarding_button": {
+    "message": "Got it",
+    "description": "Dismiss button for popup entitlement onboarding modal"
+  },
+  "trial_expired_modal_title": {
+    "message": "Continue playing with keyboard and mouse"
+  },
+  "trial_expired_modal_link_play_without": {
+    "message": "or play without keyboard and mouse"
+  },
+  "trial_expired_modal_link_contact_support": {
+    "message": "Support",
+    "description": "Link to help/support site on the in-page trial-expired paywall"
+  },
+  "trial_expired_modal_subheadline_prefix": {
+    "message": "Continue playing "
+  },
+  "trial_expired_modal_subheadline_between_games": {
+    "message": " and "
+  },
+  "trial_expired_modal_subheadline_suffix": {
+    "message": " with\u00a0keyboard\u00a0and\u00a0mouse. Free forever."
+  },
+  "trial_expired_modal_subheadline_no_games": {
+    "message": "Free forever."
+  },
+  "editor_confirm_cancel_title": {
+    "message": "Are you sure you want to cancel?",
+    "description": "Confirm modal title when canceling preset edit"
+  },
+  "editor_confirm_cancel_delete": {
+    "message": "This preset will be deleted.",
+    "description": "Confirm modal message when canceling new preset creation"
+  },
+  "editor_confirm_cancel_changes": {
+    "message": "You will lose any changes.",
+    "description": "Confirm modal message when canceling preset edit with changes"
+  },
+  "editor_confirm_button_keep_editing": {
+    "message": "Keep Editing"
+  },
+  "editor_confirm_button_delete": {
+    "message": "Delete"
+  },
+  "editor_confirm_button_cancel_editing": {
+    "message": "Cancel Editing"
+  },
+  "editor_confirm_delete_title": {
+    "message": "Are you sure you want to delete this preset?",
+    "description": "Confirm modal title when deleting preset"
+  },
+  "editor_confirm_delete_message": {
+    "message": "This action cannot be undone.",
+    "description": "Confirm modal message when deleting preset"
+  },
+  "editor_confirm_button_keep": {
+    "message": "Keep"
+  },
+  "header_menu_upgraded": {
+    "message": "Full Access"
+  },
+  "header_menu_upgrade_now": {
+    "message": "Free Forever"
+  },
+  "header_menu_contact_support": {
+    "message": "Contact support"
+  },
+  "header_menu_open_preset_library": {
+    "message": "Open Preset Library"
+  },
+  "header_menu_go_to_xcloud": {
+    "message": "Go to xCloud"
+  },
+  "settings_joystick_position_center": {
+    "message": "Center (large)"
+  },
+  "settings_joystick_position_corner": {
+    "message": "Top-right corner (small)"
+  },
+  "preset_import_success": {
+    "message": "Preset file imported successfully"
+  },
+  "autoswitch_error_already_linked": {
+    "message": "This game is already linked"
+  },
+  "autoswitch_confirm_move_title": {
+    "message": "Move the link to this preset?",
+    "description": "Confirm modal title when moving game link to different preset"
+  },
+  "autoswitch_confirm_move_message": {
+    "message": "$1 is already linked to preset \"$2\".",
+    "description": "Confirm modal message showing which game and preset it's linked to"
+  },
+  "autoswitch_confirm_button_move": {
+    "message": "Move link"
+  },
+  "validation_error_escape_not_allowed": {
+    "message": "Binding Escape key is not allowed"
+  },
+  "validation_error_key_already_used": {
+    "message": "'$1' is already used for another button",
+    "description": "Error when a key is already bound to another button"
+  },
+  "validation_error_invalid_stick": {
+    "message": "Invalid stick number"
+  },
+  "validation_error_invalid_sensitivity": {
+    "message": "Invalid sensitivity value. Must be between 1 and 1000."
+  },
+  "validation_error_name_required": {
+    "message": "Name is required"
+  },
+  "validation_error_name_not_unique": {
+    "message": "Name must be unique"
+  },
+  "validation_error_name_too_long": {
+    "message": "Preset name is too long (maximum 100 characters)"
+  },
+  "validation_error_name_contains_invalid_chars": {
+    "message": "Preset name contains invalid characters"
+  },
+  "injected_toast_disabled": {
+    "message": "Keyboard and mouse controls disabled"
+  },
+  "injected_toast_preset_activated": {
+    "message": "'$1' preset activated"
+  },
+  "selector_status_new": {
+    "message": "New"
+  },
+  "selector_status_active": {
+    "message": "Active"
+  },
+  "selector_status_editing": {
+    "message": "Editing"
+  },
+  "confirm_modal_button_confirm": {
+    "message": "Confirm"
+  },
+  "confirm_modal_button_cancel": {
+    "message": "Cancel"
+  },
+  "alert_modal_button_ok": {
+    "message": "OK"
+  },
+  "key_Arrow": {
+    "message": "Arrow"
+  },
+  "key_Space": {
+    "message": "Space"
+  },
+  "key_Enter": {
+    "message": "Enter"
+  },
+  "key_Tab": {
+    "message": "Tab"
+  },
+  "key_Backspace": {
+    "message": "Backspace"
+  },
+  "key_Delete": {
+    "message": "Delete"
+  },
+  "key_Insert": {
+    "message": "Insert"
+  },
+  "key_Home": {
+    "message": "Home"
+  },
+  "key_End": {
+    "message": "End"
+  },
+  "key_PageUp": {
+    "message": "Page Up"
+  },
+  "key_PageDown": {
+    "message": "Page Down"
+  },
+  "key_Escape": {
+    "message": "Escape"
+  },
+  "key_CapsLock": {
+    "message": "Caps Lock"
+  },
+  "key_NumLock": {
+    "message": "Num Lock"
+  },
+  "key_ScrollLock": {
+    "message": "Scroll Lock"
+  },
+  "key_ControlLeft": {
+    "message": "Control Left"
+  },
+  "key_ControlRight": {
+    "message": "Control Right"
+  },
+  "key_ShiftLeft": {
+    "message": "Shift Left"
+  },
+  "key_ShiftRight": {
+    "message": "Shift Right"
+  },
+  "key_AltLeft": {
+    "message": "Alt Left"
+  },
+  "key_AltRight": {
+    "message": "Alt Right"
+  },
+  "key_MetaLeft": {
+    "message": "Meta Left"
+  },
+  "key_MetaRight": {
+    "message": "Meta Right"
+  },
+  "key_BracketLeft": {
+    "message": "Bracket Left"
+  },
+  "key_BracketRight": {
+    "message": "Bracket Right"
+  },
+  "key_Semicolon": {
+    "message": "Semicolon"
+  },
+  "key_Quote": {
+    "message": "Quote"
+  },
+  "key_Backslash": {
+    "message": "Backslash"
+  },
+  "key_Comma": {
+    "message": "Comma"
+  },
+  "key_Period": {
+    "message": "Period"
+  },
+  "key_Slash": {
+    "message": "Slash"
+  },
+  "key_Equal": {
+    "message": "Equal"
+  },
+  "key_Minus": {
+    "message": "Minus"
+  },
+  "key_Backquote": {
+    "message": "Backquote"
+  },
+  "key_ContextMenu": {
+    "message": "Context Menu"
+  },
+  "key_IntlBackslash": {
+    "message": "Intl Backslash"
+  },
+  "key_Numpad0": {
+    "message": "Numpad 0"
+  },
+  "key_Numpad1": {
+    "message": "Numpad 1"
+  },
+  "key_Numpad2": {
+    "message": "Numpad 2"
+  },
+  "key_Numpad3": {
+    "message": "Numpad 3"
+  },
+  "key_Numpad4": {
+    "message": "Numpad 4"
+  },
+  "key_Numpad5": {
+    "message": "Numpad 5"
+  },
+  "key_Numpad6": {
+    "message": "Numpad 6"
+  },
+  "key_Numpad7": {
+    "message": "Numpad 7"
+  },
+  "key_Numpad8": {
+    "message": "Numpad 8"
+  },
+  "key_Numpad9": {
+    "message": "Numpad 9"
+  },
+  "key_NumpadAdd": {
+    "message": "Numpad Add"
+  },
+  "key_NumpadSubtract": {
+    "message": "Numpad Subtract"
+  },
+  "key_NumpadMultiply": {
+    "message": "Numpad Multiply"
+  },
+  "key_NumpadDivide": {
+    "message": "Numpad Divide"
+  },
+  "key_NumpadDecimal": {
+    "message": "Numpad Decimal"
+  },
+  "key_NumpadEnter": {
+    "message": "Numpad Enter"
+  },
+  "key_NumpadEqual": {
+    "message": "Numpad Equal"
+  },
+  "key_Click": {
+    "message": "Click"
+  },
+  "key_RightClick": {
+    "message": "Right Click"
+  },
+  "key_MiddleClick": {
+    "message": "Middle Click"
+  },
+  "key_ScrollUp": {
+    "message": "Scroll Up"
+  },
+  "key_ScrollDown": {
+    "message": "Scroll Down"
+  },
+  "notification_disconnected_content_script": {
+    "message": "Please wait while the extension reconnects..."
+  },
+  "notification_check_extension_headline": {
+    "message": "Please check that the Keyboard &amp; Mouse extension is enabled.<br>If extension is enabled, please reload this page."
+  },
+  "notification_check_extension_small": {
+    "message": "If this message still appears after reloading the page, please email $1"
+  },
+  "notification_extension_updated_headline": {
+    "message": "Extension updated. Please reload this page<br>or hold the <u>7</u> key to dismiss this message."
+  },
+  "notification_extension_updated_small": {
+    "message": "Changing presets and other functionality may not work until you reload the page.<br>If this message still appears after reloading the page, please email $1"
+  },
+  "notification_extension_installed_headline": {
+    "message": "Welcome to Keyboard &amp; Mouse for Xbox xCloud!<br>Please reload this page to start using the Keyboard &amp; Mouse extension."
+  },
+  "notification_extension_installed_small": {
+    "message": "Extension will not work until you reload the page.<br>If this message still appears after reloading the page, please email $1"
+  },
+  "extension_name": {
+    "message": "Keyboard & Mouse for Xbox Cloud Gaming (xCloud)"
+  },
+  "extension_name_with_extension": {
+    "message": "Keyboard & Mouse for Xbox Cloud Gaming extension"
+  },
+  "extension_short_name": {
+    "message": "xCloud KBM"
+  },
+  "extension_description": {
+    "message": "Play Xbox Cloud Gaming (xCloud) with your keyboard and mouse."
+  },
+  "action_default_title": {
+    "message": "xCloud Keyboard and Mouse"
+  },
+  "command_toggle_on_off_description": {
+    "message": "Enable/disable extension"
+  },
+  "command_profile_prev_description": {
+    "message": "Previous preset"
+  },
+  "command_profile_next_description": {
+    "message": "Next preset"
+  },
+  "command_show_hide_cheatsheet_description": {
+    "message": "Show/hide controls list"
+  },
+  "review_prompt_title": {
+    "message": "Enjoying Keyboard & Mouse extension?",
+    "description": "Title of the review prompt modal asking if user is enjoying the extension"
+  },
+  "review_prompt_description": {
+    "message": "Your feedback helps us improve and helps others find the extension.",
+    "description": "Description text in the review prompt modal"
+  },
+  "review_prompt_question": {
+    "message": "How is your experience with the Keyboard & Mouse extension so far?",
+    "description": "Question asking about user's experience with the extension"
+  },
+  "review_prompt_skip": {
+    "message": "Skip for now",
+    "description": "Link text to skip the review prompt"
+  },
+  "review_prompt_already_reviewed": {
+    "message": "I already left a review",
+    "description": "Link text indicating user has already left a review"
+  },
+  "review_prompt_star_rating": {
+    "message": "star",
+    "description": "Singular form of 'star' for star rating aria-label"
+  },
+  "review_prompt_star_rating_plural": {
+    "message": "stars",
+    "description": "Plural form of 'stars' for star rating aria-label"
+  },
+  "review_prompt_support_title": {
+    "message": "Help us improve",
+    "description": "Title of the support/feedback modal shown for low ratings"
+  },
+  "review_prompt_support_description": {
+    "message": "Something not working as expected? Your feedback helps us fix bugs and make improvements.",
+    "description": "Description text in the support modal asking for feedback"
+  },
+  "review_prompt_support_button": {
+    "message": "Send us feedback",
+    "description": "Button text to send feedback via email"
+  },
+  "review_prompt_support_email": {
+    "message": "Need help? Email us: $1",
+    "description": "Text showing support email address. $1 is the email address"
+  },
+  "review_prompt_send_feedback_to": {
+    "message": "Send feedback to: $1",
+    "description": "Text shown after clicking send feedback button. $1 is the email address"
+  },
+  "review_prompt_thanks_title": {
+    "message": "Thanks for the feedback!",
+    "description": "Title of the thanks modal shown after favorable rating"
+  },
+  "review_prompt_thanks_description": {
+    "message": "If you have a moment, your review helps other players discover the extension and helps guide improvements.",
+    "description": "Description text asking user to leave a review"
+  },
+  "review_prompt_thanks_button": {
+    "message": "Leave a review",
+    "description": "Button text to leave a review on the extension store"
+  },
+  "review_prompt_thanks_subtitle": {
+    "message": "Takes less than a minute",
+    "description": "Subtitle text indicating review process is quick"
+  },
+  "review_prompt_loading": {
+    "message": "Loading...",
+    "description": "Loading text shown when opening review page"
+  }
+}

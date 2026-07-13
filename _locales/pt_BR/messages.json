@@ -1,0 +1,800 @@
+{
+  "app_popup_title": {
+    "message": "Erro de conexão"
+  },
+  "app_popup_text": {
+    "message": "Se você continuar vendo esta mensagem de erro,<br>entre em contato conosco por e-mail: $1"
+  },
+  "permissions_mouseenabletarget_text": {
+    "message": "Clique $1 para mover"
+  },
+  "permissions_mouseenabletarget_text_3": {
+    "message": "com o mouse"
+  },
+  "permissions_mouseenabletarget_status_loading": {
+    "message": "Aguarde..."
+  },
+  "permissions_mouseenabletarget_desc": {
+    "message": "Please enable mouse lock permission in your browser settings"
+  },
+  "permissions_mouseenabletarget_text_4": {
+    "message": "Precisa de ajuda com a permissão de bloqueio do mouse?"
+  },
+  "permissions_mouseenabletarget_here": {
+    "message": "aqui"
+  },
+  "permissions_mouseenabletarget_again": {
+    "message": "novamente"
+  },
+  "onboarding_paywall_headline": {
+    "message": "Jogue tudo no Xbox\u00a0Cloud com teclado e mouse"
+  },
+  "onboarding_paywall_feature_title_works_every_game": {
+    "message": "Funciona em todos os jogos"
+  },
+  "onboarding_paywall_feature_desc_works_every_game": {
+    "message": "Jogue Fortnite, GTA, Forza Horizon, CoD e mais. Sem necessidade de controle."
+  },
+  "onboarding_paywall_feature_title_preset_library": {
+    "message": "Biblioteca de configs"
+  },
+  "onboarding_paywall_feature_desc_preset_library": {
+    "message": "Use $1 configs prontas para jogar ou crie suas próprias configs."
+  },
+  "onboarding_paywall_feature_title_instant_setup": {
+    "message": "Configuração instantânea"
+  },
+  "onboarding_paywall_feature_desc_instant_setup": {
+    "message": "Importe uma config em 1 clique e comece a jogar já."
+  },
+  "onboarding_paywall_feature_title_auto_switch": {
+    "message": "Alternância automática"
+  },
+  "onboarding_paywall_feature_desc_auto_switch": {
+    "message": "Alterne as configs automaticamente ao iniciar um jogo."
+  },
+  "onboarding_paywall_feature_title_zero_subscriptions": {
+    "message": "Zero assinaturas."
+  },
+  "onboarding_paywall_feature_desc_zero_subscriptions": {
+    "message": "Gr\u00e1tis para sempre. Feito para todos."
+  },
+  "onboarding_paywall_trial_text_inactive": {
+    "message": "Gr\u00e1tis para sempre"
+  },
+  "onboarding_paywall_trial_text_expired": {
+    "message": "Gr\u00e1tis para sempre"
+  },
+  "onboarding_paywall_trial_text_active": {
+    "message": "Gr\u00e1tis para sempre"
+  },
+  "onboarding_paywall_unlock_text_cta": {
+    "message": "Gr\u00e1tis \u2014 Acesso completo"
+  },
+  "onboarding_paywall_legal_text_tos": {
+    "message": "Termos de Serviço"
+  },
+  "onboarding_paywall_legal_text_already_paid": {
+    "message": "Junte-se \u00e0 nossa comunidade"
+  },
+  "onboarding_paywall_legal_text_support": {
+    "message": "Ajuda"
+  },
+  "nav_toolbar_title": {
+    "message": "Ocultar lista de controles"
+  },
+  "nav_toolbar_title_2": {
+    "message": "Mostrar lista de controles"
+  },
+  "preset_copypreset_text": {
+    "message": "Novo nome da config"
+  },
+  "preset_copypreset_button_cancel": {
+    "message": "Cancelar"
+  },
+  "preset_copypreset_button_copy": {
+    "message": "Copiar"
+  },
+  "errors_errordetails_text": {
+    "message": "Unable to access settings from storage"
+  },
+  "errors_errordetails_text_2": {
+    "message": "Erro: &quot;$1&quot;"
+  },
+  "errors_errordetails_text_3": {
+    "message": "Envie este problema por e-mail para $1"
+  },
+  "editor_editor_desc": {
+    "message": "Você também pode precisar alterar as configurações de sensibilidade e zona morta do joystick no jogo."
+  },
+  "editor_editor_button_edit": {
+    "message": "Editar"
+  },
+  "editor_editor_button_export": {
+    "message": "Exportar"
+  },
+  "editor_editor_error": {
+    "message": "A config padrão não pode ser excluída"
+  },
+  "editor_editor_button_delete": {
+    "message": "Excluir"
+  },
+  "editor_editor_error_2": {
+    "message": "Corrija os erros na config antes de salvar"
+  },
+  "editor_editor_desc_2": {
+    "message": "O nome da config é obrigatório e deve ser único."
+  },
+  "editor_editor_button_create": {
+    "message": "Criar"
+  },
+  "editor_editor_button_save": {
+    "message": "Salvar"
+  },
+  "editor_editor_text_2": {
+    "message": "Ativo"
+  },
+  "editor_editor_button_use": {
+    "message": "Usar"
+  },
+  "preset_editor_label": {
+    "message": "Selecione a config"
+  },
+  "preset_editor_title": {
+    "message": "Config anterior"
+  },
+  "preset_editor_title_2": {
+    "message": "Próxima config"
+  },
+  "preset_editor_title_3": {
+    "message": "Opções"
+  },
+  "settings_settings_button_back": {
+    "message": "Voltar"
+  },
+  "settings_settings_text": {
+    "message": "Posição da mensagem \"Clique para mover $1 com o mouse\""
+  },
+  "settings_settings_label": {
+    "message": "Mostrar lista de controles durante o jogo"
+  },
+  "settings_settings_title": {
+    "message": "Mostrar sobreposição com todas as ligações de botões durante o jogo"
+  },
+  "settings_settings_label_2": {
+    "message": "Desativar temporariamente o carregamento automático de config (reinicia na mudança de config)"
+  },
+  "settings_settings_title_2": {
+    "message": "Quando ativado, a config atual será usada mesmo que o jogo esteja vinculado a uma config diferente."
+  },
+  "settings_translate_keys_label": {
+    "message": "Traduzir teclas no editor"
+  },
+  "settings_translate_keys_title": {
+    "message": "Quando ativado, os nomes das teclas (como Espaço, Enter, etc.) serão traduzidos para o idioma selecionado."
+  },
+  "settings_settings_text_3": {
+    "message": "Idioma:"
+  },
+  "settings_settings_text_4": {
+    "message": "Para obter suporte, entre em contato conosco por e-mail: $1"
+  },
+  "nav_header_text_enable": {
+    "message": "Ativar"
+  },
+  "nav_header_text_disable": {
+    "message": "Desativar"
+  },
+  "nav_header_text": {
+    "message": "$1 teclado e mouse"
+  },
+  "nav_header_text_2": {
+    "message": "Jogando"
+  },
+  "nav_header_text_3": {
+    "message": "Nenhum"
+  },
+  "nav_header_text_4": {
+    "message": "Config"
+  },
+  "nav_header_title": {
+    "message": "Mais informações"
+  },
+  "editor_keybindings_desc": {
+    "message": "Pressione qualquer tecla, clique ou role..."
+  },
+  "editor_keybindings_text": {
+    "message": "(Pressione Esc para cancelar)"
+  },
+  "editor_keybindings_text_2": {
+    "message": "ou"
+  },
+  "editor_keybindings_title": {
+    "message": "Remover ligação"
+  },
+  "editor_keybindings_text_3": {
+    "message": "Sem ligações para o botão"
+  },
+  "editor_keybindings_title_2": {
+    "message": "Adicionar ligação"
+  },
+  "preset_newconfig_title": {
+    "message": "Adicionar nova config"
+  },
+  "preset_newconfig_text_2": {
+    "message": "Importar"
+  },
+  "preset_newconfig_text_3": {
+    "message": "Criar Novo"
+  },
+  "preset_newconfig_text_4": {
+    "message": "Nome já usado para outra config"
+  },
+  "preset_newconfig_text_5": {
+    "message": "Abrir biblioteca de configs"
+  },
+  "preset_autoswitch_text": {
+    "message": "Auto-carregar para:"
+  },
+  "preset_autoswitch_text_2": {
+    "message": "Nenhum jogo vinculado"
+  },
+  "preset_autoswitch_confirm_title": {
+    "message": "Remover $1"
+  },
+  "preset_autoswitch_label": {
+    "message": "Selecionar jogo"
+  },
+  "preset_autoswitch_placeholder": {
+    "message": "Vincular jogo jogado recentemente"
+  },
+  "preset_autoswitch_footer_no_games": {
+    "message": "Para vincular um jogo, jogue-o novamente para vê-lo nesta lista."
+  },
+  "preset_autoswitch_footer_showing_games": {
+    "message": "Mostrando seus $1 mais recentes $2.<br>Não vê o jogo que deseja?<br>Jogue-o novamente para vê-lo nesta lista."
+  },
+  "editor_sensitivity_text": {
+    "message": "Sensibilidade do mouse"
+  },
+  "settings_shortcuts_text": {
+    "message": "Definir atalhos de teclado"
+  },
+  "settings_shortcuts_description": {
+    "message": "Defina atalhos de teclado para alterar rapidamente as configurações da extensão."
+  },
+  "editor_stick_text": {
+    "message": "Controle do mouse<br>desativado"
+  },
+  "editor_stick_text_3": {
+    "message": "O mouse move o joystick $1"
+  },
+  "editor_stick_left": {
+    "message": "esquerda"
+  },
+  "editor_stick_right": {
+    "message": "direita"
+  },
+  "app_update_title": {
+    "message": "Novos recursos e melhorias"
+  },
+  "app_update_desc": {
+    "message": "Obrigado por usar a extensão. Veja as novidades:"
+  },
+  "app_update_text": {
+    "message": "Alternância automática"
+  },
+  "app_update_desc_2": {
+    "message": "Alterne as configs automaticamente ao iniciar um jogo."
+  },
+  "app_update_text_2": {
+    "message": "Biblioteca de configs"
+  },
+  "app_update_desc_4": {
+    "message": "Use $1 configs prontas para jogar. Chega de procurar no Discord."
+  },
+  "app_update_text_3": {
+    "message": "Importação com um clique"
+  },
+  "app_update_desc_5": {
+    "message": "Importe da biblioteca de configs com um clique."
+  },
+  "app_update_text_4": {
+    "message": "Mais fácil de usar"
+  },
+  "app_update_desc_6": {
+    "message": "Um editor mais limpo, melhores mensagens de conflito e mais melhorias."
+  },
+  "app_update_text_5": {
+    "message": "Modo escuro"
+  },
+  "app_update_desc_7": {
+    "message": "Um novo tema escuro."
+  },
+  "app_update_desc_8": {
+    "message": "Prefere o modo claro? Use o tema claro do navegador."
+  },
+  "app_update_desc_9": {
+    "message": "Experimente definindo o tema do navegador como escuro."
+  },
+  "app_update_text_6": {
+    "message": "Feedback? Envie um e-mail: $1"
+  },
+  "app_update_text_7": {
+    "message": "Continuar"
+  },
+  "app_update_version_update": {
+    "message": "Atualização"
+  },
+  "app_update_v4patch05_title": {
+    "message": "Melhorias de compatibilidade"
+  },
+  "app_update_v4patch05_desc": {
+    "message": "Esta atualização adiciona suporte à nova interface em prévia do Xbox Cloud e melhora a confiabilidade."
+  },
+  "app_update_v4patch05_text_1": {
+    "message": "Suporte à nova interface do Xbox Cloud"
+  },
+  "app_update_v4patch05_desc_1": {
+    "message": "Suporte completo para a nova interface em prévia no play.xbox.com."
+  },
+  "app_update_v4patch05_text_2": {
+    "message": "Compatibilidade aprimorada com extensões"
+  },
+  "app_update_v4patch05_desc_2": {
+    "message": "Correções para problemas que podiam ocorrer quando outras extensões estão ativas."
+  },
+  "app_update_v4patch05_text_3": {
+    "message": "Estabilidade e correções"
+  },
+  "app_update_v4patch05_desc_3": {
+    "message": "Várias correções no editor e nos controles do jogo."
+  },
+  "post_entitlement_title": {
+    "message": "Teclado e Mouse habilitados"
+  },
+  "post_entitlement_variant_paid": {
+    "message": "Todos os recursos s\u00e3o gratuitos e dispon\u00edveis para todos."
+  },
+  "post_entitlement_variant_trial": {
+    "message": "Todos os recursos s\u00e3o gratuitos e dispon\u00edveis para todos."
+  },
+  "post_entitlement_variant_trial_fallback": {
+    "message": "Todos os recursos s\u00e3o gratuitos e dispon\u00edveis para todos."
+  },
+  "post_entitlement_subtext_1": {
+    "message": "Inicie um jogo para jogar com teclado e mouse."
+  },
+  "post_entitlement_subtext_popup": {
+    "message": "Clique no ícone da extensão para alterar as configurações."
+  },
+  "post_entitlement_button_ok": {
+    "message": "Começar a jogar"
+  },
+  "popup_entitlement_onboarding_title": {
+    "message": "Dicas importantes de configuração"
+  },
+  "popup_entitlement_onboarding_intro": {
+    "message": "Para ter a melhor experiência, altere estas configurações:"
+  },
+  "popup_entitlement_onboarding_item_mouse": {
+    "message": "Altere a sensibilidade do mouse na config da extensão para que os controles de joystick fiquem mais naturais."
+  },
+  "popup_entitlement_onboarding_label_extension": {
+    "message": "Na config da extensão"
+  },
+  "popup_entitlement_onboarding_item_joystick": {
+    "message": "Altere a sensibilidade e a zona morta do joystick no jogo para melhorar a precisão."
+  },
+  "popup_entitlement_onboarding_label_game": {
+    "message": "Em cada jogo"
+  },
+  "popup_entitlement_onboarding_button": {
+    "message": "Entendi"
+  },
+  "trial_expired_modal_title": {
+    "message": "Continue jogando com teclado e mouse"
+  },
+  "trial_expired_modal_link_play_without": {
+    "message": "ou jogue sem teclado e mouse"
+  },
+  "trial_expired_modal_link_contact_support": {
+    "message": "Ajuda"
+  },
+  "trial_expired_modal_subheadline_prefix": {
+    "message": "Continue jogando "
+  },
+  "trial_expired_modal_subheadline_between_games": {
+    "message": " e "
+  },
+  "trial_expired_modal_subheadline_suffix": {
+    "message": " com\u00a0teclado\u00a0e\u00a0mouse. Gr\u00e1tis para sempre."
+  },
+  "trial_expired_modal_subheadline_no_games": {
+    "message": "Gr\u00e1tis para sempre."
+  },
+  "editor_confirm_cancel_title": {
+    "message": "Tem certeza de que deseja cancelar?"
+  },
+  "editor_confirm_cancel_delete": {
+    "message": "Esta config será excluída"
+  },
+  "editor_confirm_cancel_changes": {
+    "message": "Você perderá todas as alterações"
+  },
+  "editor_confirm_button_keep_editing": {
+    "message": "Continuar editando"
+  },
+  "editor_confirm_button_delete": {
+    "message": "Excluir"
+  },
+  "editor_confirm_button_cancel_editing": {
+    "message": "Cancelar edição"
+  },
+  "editor_confirm_delete_title": {
+    "message": "Tem certeza de que deseja excluir esta config?"
+  },
+  "editor_confirm_delete_message": {
+    "message": "Esta ação não pode ser desfeita"
+  },
+  "editor_confirm_button_keep": {
+    "message": "Manter"
+  },
+  "header_menu_upgraded": {
+    "message": "Acesso completo"
+  },
+  "header_menu_upgrade_now": {
+    "message": "Gr\u00e1tis para sempre"
+  },
+  "header_menu_contact_support": {
+    "message": "Contatar o suporte"
+  },
+  "header_menu_open_preset_library": {
+    "message": "Abrir biblioteca de configs"
+  },
+  "header_menu_go_to_xcloud": {
+    "message": "Ir para o xCloud"
+  },
+  "settings_joystick_position_center": {
+    "message": "Centro (grande)"
+  },
+  "settings_joystick_position_corner": {
+    "message": "Canto superior direito (pequeno)"
+  },
+  "preset_import_success": {
+    "message": "Arquivo de config importado com sucesso"
+  },
+  "autoswitch_error_already_linked": {
+    "message": "Este jogo já está vinculado"
+  },
+  "autoswitch_confirm_move_title": {
+    "message": "Mover o link para esta config?"
+  },
+  "autoswitch_confirm_move_message": {
+    "message": "$1 já está vinculado à config \"$2\"."
+  },
+  "autoswitch_confirm_button_move": {
+    "message": "Mover link"
+  },
+  "validation_error_escape_not_allowed": {
+    "message": "Não é permitido vincular a tecla Escape"
+  },
+  "validation_error_key_already_used": {
+    "message": "'$1' já está sendo usado para outro botão"
+  },
+  "validation_error_invalid_stick": {
+    "message": "Número de stick inválido"
+  },
+  "validation_error_invalid_sensitivity": {
+    "message": "Valor de sensibilidade inválido. Deve estar entre 1 e 1000."
+  },
+  "validation_error_name_required": {
+    "message": "O nome é obrigatório"
+  },
+  "validation_error_name_not_unique": {
+    "message": "O nome deve ser único"
+  },
+  "validation_error_name_too_long": {
+    "message": "O nome da config é muito longo (máximo de 100 caracteres)"
+  },
+  "validation_error_name_contains_invalid_chars": {
+    "message": "O nome da config contém caracteres inválidos"
+  },
+  "injected_toast_disabled": {
+    "message": "Controles de teclado e mouse desativados"
+  },
+  "injected_toast_preset_activated": {
+    "message": "Config '$1' ativada"
+  },
+  "selector_status_new": {
+    "message": "Novo"
+  },
+  "selector_status_active": {
+    "message": "Ativo"
+  },
+  "selector_status_editing": {
+    "message": "Editando"
+  },
+  "confirm_modal_button_confirm": {
+    "message": "Confirmar"
+  },
+  "confirm_modal_button_cancel": {
+    "message": "Cancelar"
+  },
+  "alert_modal_button_ok": {
+    "message": "OK"
+  },
+  "key_Arrow": {
+    "message": "Seta"
+  },
+  "key_Space": {
+    "message": "Espaço"
+  },
+  "key_Enter": {
+    "message": "Enter"
+  },
+  "key_Tab": {
+    "message": "Guia"
+  },
+  "key_Backspace": {
+    "message": "Backspace"
+  },
+  "key_Delete": {
+    "message": "Excluir"
+  },
+  "key_Insert": {
+    "message": "Inserir"
+  },
+  "key_Home": {
+    "message": "Início"
+  },
+  "key_End": {
+    "message": "Fim"
+  },
+  "key_PageUp": {
+    "message": "Página para cima"
+  },
+  "key_PageDown": {
+    "message": "Página para baixo"
+  },
+  "key_Escape": {
+    "message": "Escape"
+  },
+  "key_CapsLock": {
+    "message": "Caps Lock"
+  },
+  "key_NumLock": {
+    "message": "Num Lock"
+  },
+  "key_ScrollLock": {
+    "message": "Bloqueio de rolagem"
+  },
+  "key_ControlLeft": {
+    "message": "Controle esquerdo"
+  },
+  "key_ControlRight": {
+    "message": "Controle direito"
+  },
+  "key_ShiftLeft": {
+    "message": "Shift Esquerdo"
+  },
+  "key_ShiftRight": {
+    "message": "Shift Direito"
+  },
+  "key_AltLeft": {
+    "message": "Alt Esquerdo"
+  },
+  "key_AltRight": {
+    "message": "Alt Direito"
+  },
+  "key_MetaLeft": {
+    "message": "Meta Esquerdo"
+  },
+  "key_MetaRight": {
+    "message": "Meta Direito"
+  },
+  "key_BracketLeft": {
+    "message": "Colchete esquerdo"
+  },
+  "key_BracketRight": {
+    "message": "Colchete Direito"
+  },
+  "key_Semicolon": {
+    "message": "Ponto e vírgula"
+  },
+  "key_Quote": {
+    "message": "Citação"
+  },
+  "key_Backslash": {
+    "message": "Barra invertida"
+  },
+  "key_Comma": {
+    "message": "Vírgula"
+  },
+  "key_Period": {
+    "message": "Ponto final"
+  },
+  "key_Slash": {
+    "message": "Barra"
+  },
+  "key_Equal": {
+    "message": "Igual"
+  },
+  "key_Minus": {
+    "message": "Menos"
+  },
+  "key_Backquote": {
+    "message": "Acento Grave"
+  },
+  "key_ContextMenu": {
+    "message": "Menu de contexto"
+  },
+  "key_IntlBackslash": {
+    "message": "Barra invertida internacional"
+  },
+  "key_Numpad0": {
+    "message": "Teclado numérico 0"
+  },
+  "key_Numpad1": {
+    "message": "Teclado numérico 1"
+  },
+  "key_Numpad2": {
+    "message": "Teclado numérico 2"
+  },
+  "key_Numpad3": {
+    "message": "Teclado numérico 3"
+  },
+  "key_Numpad4": {
+    "message": "Teclado numérico 4"
+  },
+  "key_Numpad5": {
+    "message": "Teclado numérico 5"
+  },
+  "key_Numpad6": {
+    "message": "Teclado numérico 6"
+  },
+  "key_Numpad7": {
+    "message": "Teclado numérico 7"
+  },
+  "key_Numpad8": {
+    "message": "Teclado numérico 8"
+  },
+  "key_Numpad9": {
+    "message": "Teclado numérico 9"
+  },
+  "key_NumpadAdd": {
+    "message": "Adicionar teclado numérico"
+  },
+  "key_NumpadSubtract": {
+    "message": "Subtrair no teclado numérico"
+  },
+  "key_NumpadMultiply": {
+    "message": "Multiplicar no teclado numérico"
+  },
+  "key_NumpadDivide": {
+    "message": "Divisão do teclado numérico"
+  },
+  "key_NumpadDecimal": {
+    "message": "Teclado numérico decimal"
+  },
+  "key_NumpadEnter": {
+    "message": "Teclado Numérico Enter"
+  },
+  "key_NumpadEqual": {
+    "message": "Teclado numérico igual"
+  },
+  "key_Click": {
+    "message": "Clique"
+  },
+  "key_RightClick": {
+    "message": "Clique Direito"
+  },
+  "key_MiddleClick": {
+    "message": "Clique do meio"
+  },
+  "key_ScrollUp": {
+    "message": "Rolar para cima"
+  },
+  "key_ScrollDown": {
+    "message": "Rolar para baixo"
+  },
+  "notification_disconnected_content_script": {
+    "message": "Aguarde enquanto a extensão se reconecta..."
+  },
+  "notification_check_extension_headline": {
+    "message": "Verifique se a extensão Teclado e Mouse está ativada.<br>Se a extensão estiver ativada, recarregue esta página."
+  },
+  "notification_check_extension_small": {
+    "message": "Se esta mensagem continuar a aparecer após recarregar a página, envie um e-mail para $1"
+  },
+  "notification_extension_updated_headline": {
+    "message": "Extensão atualizada. Recarregue esta página<br>ou mantenha pressionada a tecla <u>7</u> para fechar esta mensagem."
+  },
+  "notification_extension_updated_small": {
+    "message": "A alteração das configs e outras funcionalidades podem não funcionar até que você recarregue a página.<br>Se esta mensagem continuar a aparecer após recarregar a página, envie um e-mail para $1"
+  },
+  "notification_extension_installed_headline": {
+    "message": "Bem-vindo ao Teclado e Mouse para Xbox xCloud!<br>Recarregue esta página para começar a usar a extensão Teclado e Mouse."
+  },
+  "notification_extension_installed_small": {
+    "message": "A extensão não funcionará até que você recarregue a página.<br>Se esta mensagem ainda aparecer após recarregar a página, envie um e-mail para $1"
+  },
+  "extension_name": {
+    "message": "Teclado e Mouse para Xbox Cloud Gaming (xCloud)"
+  },
+  "extension_name_with_extension": {
+    "message": "Extensão Teclado e Mouse para Xbox Cloud Gaming"
+  },
+  "extension_short_name": {
+    "message": "xCloud KBM"
+  },
+  "extension_description": {
+    "message": "Jogue Xbox Cloud Gaming (xCloud) com teclado e mouse."
+  },
+  "action_default_title": {
+    "message": "Teclado e Mouse para xCloud"
+  },
+  "command_toggle_on_off_description": {
+    "message": "Ativar/desativar extensão"
+  },
+  "command_profile_prev_description": {
+    "message": "Config anterior"
+  },
+  "command_profile_next_description": {
+    "message": "Próxima config"
+  },
+  "command_show_hide_cheatsheet_description": {
+    "message": "Mostrar/ocultar lista de controles"
+  },
+  "review_prompt_title": {
+    "message": "Está gostando da extensão Teclado e Mouse?"
+  },
+  "review_prompt_description": {
+    "message": "Seu feedback nos ajuda a melhorar e ajuda outros a encontrar a extensão."
+  },
+  "review_prompt_question": {
+    "message": "Como tem sido sua experiência com a extensão Teclado e Mouse até agora?"
+  },
+  "review_prompt_skip": {
+    "message": "Pular por agora"
+  },
+  "review_prompt_already_reviewed": {
+    "message": "Já deixei uma avaliação"
+  },
+  "review_prompt_star_rating": {
+    "message": "estrela"
+  },
+  "review_prompt_star_rating_plural": {
+    "message": "estrelas"
+  },
+  "review_prompt_support_title": {
+    "message": "Ajude-nos a melhorar"
+  },
+  "review_prompt_support_description": {
+    "message": "Algo não está funcionando bem? Seu feedback nos ajuda a corrigir bugs e fazer melhorias."
+  },
+  "review_prompt_support_button": {
+    "message": "Envie-nos seu feedback"
+  },
+  "review_prompt_support_email": {
+    "message": "Precisa de ajuda? Envie um e-mail: $1"
+  },
+  "review_prompt_send_feedback_to": {
+    "message": "Enviar feedback para: $1"
+  },
+  "review_prompt_thanks_title": {
+    "message": "Obrigado pelo feedback!"
+  },
+  "review_prompt_thanks_description": {
+    "message": "Se você tiver um momento, sua avaliação ajuda outros jogadores a descobrir a extensão e ajuda a orientar melhorias."
+  },
+  "review_prompt_thanks_button": {
+    "message": "Deixar uma avaliação"
+  },
+  "review_prompt_thanks_subtitle": {
+    "message": "Leva menos de um minuto"
+  },
+  "review_prompt_loading": {
+    "message": "Carregando..."
+  }
+}
