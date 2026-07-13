@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=xCloud%20KBM&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Community%20Edition&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,100:2575FC&height=200&section=header&text=xCloud%20Gaming&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Community%20Edition&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="icon-256.png" width="120" alt="xCloud KBM Logo">
 
